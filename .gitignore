@@ -1,0 +1,17 @@
+*~
+x64/
+distrib/*.exe
+
+# User-specific files
+*.suo
+*.user
+CMakeLists.txt.user*
+
+# Visual C++ cache files
+.vs/
+*.opensdf
+*.sdf
+*.ncb
+*.VC.db
+*.VC.opendb
+*.aps

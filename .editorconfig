@@ -1,0 +1,7 @@
+[*.{h,cpp, hpp, ixx}]
+charset = utf-8
+trim_trailing_whitespace = true
+
+[*.{iss, pas}]
+charset = utf-8-bom
+trim_trailing_whitespace = true
